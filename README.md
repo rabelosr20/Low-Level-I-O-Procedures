@@ -1,2 +1,3 @@
 # Low-Level-I-O-Procedures
 MASM file for Low-Level I/O Procedures
+This program converts ten strings that are entered by the user into integers. The first thing it does is checks if the string entered contains only numeric characters. If the string contains anything that is not a numeric character then the program will produce an error message that prompts the user to re-enter string. Once the user has entered ten valid strings then the program returns a list of the valid numbers, the sum of the numbers and the truncated average as strings. It calculates the sum and the average by taking the strings that were converted to integers and doing the calculations. It then converts them back to strings and displays them to the user.
